@@ -1,5 +1,6 @@
 # ARCHITEXTURIA#
-## Le blog qui parle d'illustrations d'architextures##
+## Le blog qui parle d'illustrations d'architextures
+
 rendez-vous sur [le blog](http://architexturia.tumblr.com/) pour en voir d'avantage!
 -----------
 
