@@ -10,10 +10,10 @@ Pour ce qui est de la bannière j'ai choisis une de mes illustrations réalisés
 Mots-clés : #Illustrations #Architecture #Textures
 
 Favicon: 
-![Livre](Licence/CMS/tumblr/favicon.png)
+![Livre](C://Users/bancesar/Desktop/SARAH BANCE/CMS/tumblr/favicon.png)
 
 Image d'en tête: 
-![Background](Licence/CMS/tumblr/rouen.jpg)
+![Background](C://Users/bancesar/Desktop/SARAH BANCE/CMS/tumblr/rouen.jpg)
 
 Couleurs du fond : 
 * HEX:#f4fffe
