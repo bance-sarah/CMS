@@ -14,7 +14,7 @@ Favicon:
 ![maison](C://Users/bancesar/Desktop/SARAH BANCE/CMS/tumblr/favicon.png)
 
 Image d'en tête: 
-![Background](C://Users/bancesar/Desktop/SARAH BANCE/CMS/tumblr/rouen.jpg)
+![Background](http://www.noelshack.com/2016-39-1475045632-rouen.jpg)
 
 Couleurs du fond : 
 * HEX:#f4fffe
